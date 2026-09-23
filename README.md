@@ -1,28 +1,18 @@
 ```text
-.```                      `...:*%@@%%@#=---:=+   dylan@DYLANeay -----------------------------------------------------
-#*****++==-::...``        ``.`=*%@@@%*++``-=--   . OS: ................................... Fedora Linux, Windows, iOS
-##%%%%%%%%%#######**+++==---:-+*#%@#+-=*-.+=-=   . Uptime: .............................. 22 years, 5 months, 10 days
-+**##%%%%%%%%%%%%%%##########@#*++*:.:=+#=.=+-   . Host: ............................ HEIG-VD (Ingénierie des médias)
-``````...::--==**###**#**+++**++=-=. --==+=+#+   . Kernel: .................................. just a boy in the world
-.......``.```.=#%####@@@@@%##*+=--=. :-==+=++=   . WM: .............................................. niri + Noctalia
-``...`......:*@@@%%%%##%@@@%%##*+==:`.-===+=+-   . IDE: ......................................................... Zed
---:::......:#@@@@@%*+==+*#%@@@@#*=-=-====++=:=
-%%#####**++#@@@@@%*++=====+*%%%%##===-:+**#*=*   . Languages.Programming: . JavaScript, TypeScript, PHP, Java, Python
-===+++++++*%@@@*+****+=--++**+:=##==+++####%%#   . Languages.Computer: ......................... HTML, CSS, SQL, JSON
-:::::.`...-#@@@+#@@@@%+++@@@@@#+%#*=+#*###%@@#   . Languages.Real: .......................... French, English, German
-@@%%%%%##**#@@@%%@@@@%*+=#%%%#+%@@%*++-:*#%##+   . Frameworks: ........................ Vue, React, Laravel + Inertia
-#%%%%#**+++%@@@@##*####+==++=-:*@@@#==--*%##*+
-#********++#@@@%#***###*+=--=-:=@@%+-...+%###+   . Hobbies.Software: .................... Linux ricing, side projects
-.``    `..`.=*%@#**#%##**+===--=*#+=-   -%%%#=   . Hobbies.IRL: ............................... Music, Sport, Reading
-`           ``-%%#*#%##**=---:*@%#+====-+*##**
-              .=%%###**+=--:--###+-==+***#**##   - Currently --------------------------------------------------------
-..`````````````.=*####*+==--::*+*----:===*####   . Studying: ........................ Web & mobile dev, cybersecurity
---:::::..........-#####**=--::.:*-:-=`   +####
-=-::::::::::::...=*+**+=-::::: .+-:--..::+####   - Contact ----------------------------------------------------------
-=-:::::.......:-***++++=-::::::+%#***++=-=****   . Email: ..................................... dylan.eray6@gmail.com
-=-:::::---==*#%@%**+====-:::::.-@@@@@@@@@@@%%#   . LinkedIn: ................................... dylan-eray-10b546268
-=::=+#@@@@@@@@@@@@#*+-----:...:*@@@@@@@@@@@@@@
-+#@@@@@@@@@@@@@@@@@@%*==++*=+*@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+$ systemctl status dylan.service
+
+● dylan.service - Media Engineering student & dev
+     Loaded: loaded (/home/dylan/.config/life.d/dylan.conf; enabled)
+     Active: active (running) since Fri 2004-02-06; 22 years ago
+       Docs: https://linkedin.com/in/dylan-eray-10b546268
+   Main PID: 2004 (curiosity)
+     Memory: mostly caffeine
+     CGroup: /system.slice/dylan.service
+             ├─ web       JavaScript, TypeScript, PHP, Vue, React, Laravel
+             ├─ software  C#, Java, Python, Bash
+             ├─ ai        ML training & validation, model evaluation
+             ├─ security  HackTheBox Academy
+             └─ irl       music.all, sport.daily, reading.philosophy
+
+Sep 23 2026  dylan.service[2004]: Dependency failed for sleep.target.
 ```
